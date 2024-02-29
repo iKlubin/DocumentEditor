@@ -1,6 +1,6 @@
 # DocumentEditor WPF C# .NET
 
-
+![screenshot](./img.png)
 
 This is a simple WPF application created to demonstrate text formatting capabilities in a TextBlock using control elements such as Bold, Italic, Clear buttons, as well as dropdown lists for selecting color and font size.
 
